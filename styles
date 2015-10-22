@@ -1,0 +1,47 @@
+/*give all headings same color, font and size*/
+h1   {
+	color:#000066;
+	font-family:Verdana;
+	font-size:3em;
+	}
+	
+/* unvisited link */
+a:link {
+    color: #660066;
+}
+
+/* visited link */
+a:visited {
+    color: #660066;
+}
+
+/* mouse over link */
+a:hover {
+    color: #660066;
+}
+
+/* selected link */
+a:active {
+    color: #660066;
+}
+
+/*give all footers the same background color*/
+footer {
+	background-color: #CC6699;
+}
+
+/*style the definition list on the index page*/
+  dt {
+    font-weight: bold;
+	text-decoration: underline;
+  }
+  
+/*style the navigation div*/
+#navigation {
+	font-family:Verdana;
+	line-height:30px;
+    background-color:#66FFFF;
+    height:50px;
+    padding:5px;
+}
+  

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="styles.css">
+<meta charset="UTF-8">
+<title>Contact</title>
+<style>
+body {background-color:#99FF99}
+</style>
+</head>
+
+<body>
+<h1>Fish Creek Animal Hospital</h1>
+
+<div id="navigation">
+<a href="index.html">Home</a> <a href="services.html">Services</a> <a href="ask.html">Ask the Vet</a> <a href="contact.html">Contact</a><br /><br />
+</div>
+
+Content of the document......
+
+<footer><em>Copyright © 2013 Fish Creek Animal Hospital</em><br />
+<a href="yourfirstname@yourlastname.com">yourfirstname@yourlastname.com</a></footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
